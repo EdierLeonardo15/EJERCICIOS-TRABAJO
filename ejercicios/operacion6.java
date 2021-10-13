@@ -1,5 +1,9 @@
 import java.util.Scanner;
+<<<<<<< HEAD
 public class ejercicio {
+=======
+public class Ejercicio_3_6 {
+>>>>>>> 49e2217574fec7596356edefd1476c6dc97d5e26
   static Scanner sc = new Scanner(System.in);
  
   static void descuentoCosto(){
@@ -7,6 +11,10 @@ public class ejercicio {
     int costo=0;
     double descuento=0;
   
+<<<<<<< HEAD
+=======
+    System.out.println("***** Ejercicio 3.6 ******");
+>>>>>>> 49e2217574fec7596356edefd1476c6dc97d5e26
     System.out.println("Ingrese el costo:");
     costo=sc.nextInt();
  

@@ -1,5 +1,9 @@
 import java.util.Scanner;
+<<<<<<< HEAD
 public class ejercicio {
+=======
+public class Ejercicio_3_4 {
+>>>>>>> 49e2217574fec7596356edefd1476c6dc97d5e26
   static Scanner sc = new Scanner(System.in);
 
   static void cobrarEstacionamiento(){
